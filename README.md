@@ -1,5 +1,3 @@
-# portfolio_projects
-
-This repository holds all of the code and queries from my Portfolio Projects.
+# Marketing Campaign Project 1
 
 Portfolio Project 1: Cleaning "Marketing Campaign" Dataset in MySQL Workbench.
