@@ -12,4 +12,4 @@ Summary of Steps:
   • Change column names to have cleaner and/or clearer descriptions as needed
   • Combine Child_Home and Teen_Home columns into one column named "Children"
   • Check if there are any duplicates in Customer ID
-  • Replace empty cells with NULL values in Income column
+  • Replace empty cells with NULL values in Income column 
