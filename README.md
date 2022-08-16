@@ -2,7 +2,7 @@
 
 Portfolio Project 1: Cleaning "Marketing Campaign" Dataset 
 
-In this project I cleaned a dataset from Kaggle named "Marketing Campaign in MySQL Workbench.
+In this project I cleaned a dataset from Kaggle named "Marketing Campaign" in MySQL Workbench.
 
 Link to the dataset: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign 
 
