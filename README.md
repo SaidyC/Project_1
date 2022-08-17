@@ -1,6 +1,6 @@
 # Project 1: Marketing Campaign 
 
-Portfolio Project 1: Cleaning "Marketing Campaign" Dataset 
+Portfolio Project 1: Cleaning the "Marketing Campaign" Dataset 
 
 In this project I cleaned a dataset from Kaggle named "Marketing Campaign" in MySQL Workbench.
 
